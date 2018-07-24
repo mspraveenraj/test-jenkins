@@ -14,7 +14,7 @@ public class HelloWorldTest {
 
         String result = myUnit.concatenate("one", "two");
 
-        assertEquals("onetwo", result);
+        assertEquals("onetw", result);
 
     }
 
